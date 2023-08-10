@@ -1,0 +1,23 @@
+
+public class addition {
+
+	public static void main(String[] args) {
+        int a=10;
+        int b=20;
+        int sum=a+b;
+        int c=20;
+        int d=10;
+        int sub=a-b;
+        int e=2;
+        int f=3;
+        int prod=e*f;
+        int g=10;
+        int h=2;
+        int div=g/h;
+		System.out.println(sum);
+		System.out.println(sub);
+		System.out.println(prod);
+		System.out.println(div);
+	}
+
+}
